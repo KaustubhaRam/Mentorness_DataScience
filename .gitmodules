@@ -1,3 +1,6 @@
 [submodule "pizza_sales_analysis"]
 	path = pizza_sales_analysis
 	url = https://github.com/KaustubhaRam/pizza_sales_analysis.git
+[submodule "IPL_Data_Analysis"]
+	path = IPL_Data_Analysis
+	url = https://github.com/KaustubhaRam/IPL_Data_Analysis_Mentorness.git
