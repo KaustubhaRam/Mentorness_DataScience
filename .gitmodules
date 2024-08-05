@@ -4,3 +4,6 @@
 [submodule "IPL_Data_Analysis"]
 	path = IPL_Data_Analysis
 	url = https://github.com/KaustubhaRam/IPL_Data_Analysis_Mentorness.git
+[submodule "histogram_reel"]
+	path = histogram_reel
+	url = https://github.com/KaustubhaRam/histogram_reel.git
